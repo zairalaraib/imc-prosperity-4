@@ -1,6 +1,6 @@
 # IMC Prosperity 4
 
-Repository containing my solutions, experiments, logs, and strategies for the IMC Prosperity 4 trading competition.
+Repository containing datasets, my solutions, experiments, logs, and strategies for the IMC Prosperity 4 trading competition.
 
 ## RESULTS
 
